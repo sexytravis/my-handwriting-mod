@@ -15,5 +15,5 @@ HOW TO DOWNLOAD
 - If you don't like this mod, you can go into the backup folder of this mod to download the original version of rockwell.png.
 
 
-Credits
+CREDITS
 - Alex Austin for making this amazing font 🥰
