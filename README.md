@@ -10,5 +10,6 @@ With this mod, you can:
 
 
 HOW TO DOWNLOAD
-  To download this mod, go to Sub Rosa/font, and then replace rockwell.png with the other rockwell.png I have provided. 
-  If you don't like this mod, you can go into the backup folder of this mod to download the original version of rockwell.png.
+
+- To download this mod, go to Sub Rosa/font, and then replace rockwell.png with the other rockwell.png I have provided. 
+- If you don't like this mod, you can go into the backup folder of this mod to download the original version of rockwell.png.
